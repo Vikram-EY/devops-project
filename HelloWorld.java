@@ -6,3 +6,4 @@ class HelloWorld {
         System.out.println("Sample DevOps Demo");
         System.out.println("Continious Integration Pipeline job!!");
 }
+}
